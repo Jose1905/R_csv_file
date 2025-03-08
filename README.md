@@ -16,7 +16,7 @@ Contains functions that:
 
 # Development Environment
 
-I am using Visual Studio Code and the extensions "R" and "R Debugger"
+I am using R as the language and RStudio as the environment
 
 This code is written in R language
 
