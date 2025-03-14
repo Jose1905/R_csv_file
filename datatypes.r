@@ -12,7 +12,7 @@ View(scoobydoo)
 #View the data types of each column
 str(scoobydoo)
 
-# 1. Demonstrate how to work with integers
+# 1. Demonstrate how to work with integers -------------------------------------------------------------------------
 
 #Change the "imdb" column data type to integer
 scoobydoo$run_time <- as.integer(scoobydoo$run_time)
@@ -23,7 +23,7 @@ scoobydoo %>%
   summarise(sum(run_time))
 
 
-# 2. Demonstrate how to work with numeric
+# 2. Demonstrate how to work with numeric -------------------------------------------------------------------------
 
 #Change the "imdb" column data type to numeric 
 scoobydoo$imdb <- as.numeric(scoobydoo$imdb)
@@ -35,7 +35,7 @@ scoobydoo %>%
   summarise(mean(imdb))
 
 
-# 3. Demonstrate how to work with logical/boolean
+# 3. Demonstrate how to work with logical/boolean -----------------------------------------------------------------
 
 #Change the "monster_real" column data type to logical/boolean
 scoobydoo$monster_real <- as.logical(scoobydoo$monster_real)
@@ -46,7 +46,7 @@ scoobydoo %>%
   filter(monster_real == TRUE)
 
 
-# 4. Demonstrate how to work with character
+# 4. Demonstrate how to work with character -----------------------------------------------------------------------
 
 #Change the "series_name" column to upper case
 scoobydoo$series_name <- str_to_upper(scoobydoo$series_name)
@@ -57,18 +57,50 @@ scoobydoo %>%
   distinct()
 
 
-# 5. Demonstrate how to work with a list
+# 5. Demonstrate how to work with a list --------------------------------------------------------------------------
 
 #Create a list that includes all the monster names, if they are real, and the length in minutes of the chapter
-l1 <- list(scoobydoo$monster_name, scoobydoo$monster_real, scoobydoo$run_time)
-l1 <- list(scoobydoo$monster_name, as.logical(scoobydoo$monster_real), scoobydoo$run_time)
-View(l1)
+list <- list(scoobydoo$monster_name,
+             as.logical(scoobydoo$monster_real),
+             scoobydoo$run_time,
+             as.numeric(scoobydoo$imdb))
+View(list)
+
+#Assign a name to each column
+names(list) <- c("Monster name", "Real monster", "Length", "Rating")
 
 #View the structure of the list
-str(l1)
+str(list)
 
-l1[[1]]
+#Display the first element of the list (which is another list)
+list[[1]]
 
-#View the structure of the sublist l1[1]
-str(l1[1])
+#Loop through the list and print only the  real monsters
+for (x in c(1 : length(list[[2]]))) {
+  if (is.na(list[[2]][[x]]) == FALSE & list[[2]][[x]] == TRUE){
+    print(list[[1]][[x]])
+  }
+}
+
+
+#Dataframe display ------------------------------------------------------------------------------------------------
+
+sample_dataframe <- data.frame(
+  Monster_name = list[1],
+  Real_monster = list[2],
+  Length       = list[3],
+  Rating       = list[4]
+)
+
+print(sample_dataframe)
+
+
+#Write .csv file --------------------------------------------------------------------------------------------------
+write.csv(sample_dataframe, "sample_dataframe.csv")
+print(read.csv("sample_dataframe.csv"))
+
+
+
+
+
 
