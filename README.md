@@ -9,9 +9,9 @@ Contains functions that:
     2. Use at least 5 different R datatypes in your program
     3. Incorporate at least one loop that works with lists or arrays
     4. Use Dataframes
-    5. Opens and edit .csv files
+    5. Opens and creates .csv files
 
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/29nGnOhQd9A)
 
 
 # Development Environment
@@ -24,4 +24,4 @@ This code is written in R language
 # Useful Websites
 
 * [R official website](https://www.r-project.org/about.html)
-* [Visual studio R page](https://code.visualstudio.com/docs/languages/r)
+* [R tutorial](https://www.datacamp.com/doc/r/r-tutorial)

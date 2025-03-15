@@ -1,0 +1,604 @@
+"","c..Black.Knight....Ghost.of.Cptn..Cuttler....Phantom....Miner.49.er...","c.FALSE..FALSE..FALSE..FALSE..FALSE..FALSE..FALSE..FALSE..FALSE..","c.21L..22L..21L..21L..21L..21L..21L..21L..21L..21L..21L..21L..","c.8.1..8.1..8..7.8..7.5..8.4..7.6..8.2..8.1..8..8.5..8.2..8.4.."
+"1","Black Knight",FALSE,21,8.1
+"2","Ghost of Cptn. Cuttler",FALSE,22,8.1
+"3","Phantom",FALSE,21,8
+"4","Miner 49'er",FALSE,21,7.8
+"5","Indian Witch Doctor",FALSE,21,7.5
+"6","Ghost of Elias Kingston",FALSE,21,8.4
+"7","Ape Man",FALSE,21,7.6
+"8","Charlie the Robot",FALSE,21,8.2
+"9","Puppet Master",FALSE,21,8.1
+"10","Ghost Clown",FALSE,21,8
+"11","Werewolf,Dracula,Frankenstein's Monster",FALSE,21,8.5
+"12","Mummy of Ankha",FALSE,21,8.2
+"13","Zombie,Witch",FALSE,21,8.4
+"14","Ghost of Redbeard",FALSE,22,8.1
+"15","Spooky Space Kook",FALSE,21,8.4
+"16","Green Ghost,Green Ghost",FALSE,21,8.7
+"17","Snow Ghost",FALSE,21,8
+"18","Ghost of Mr. Hyde",FALSE,21,8.3
+"19","Ghost of Zen Tuo,Scare Pair,Scare Pair",FALSE,21,7.8
+"20","Caveman",FALSE,21,7.7
+"21","Creeper",FALSE,21,8.5
+"22","Headless Specter",FALSE,21,8.4
+"23","Witch Doctor,Mano Tiki Tia",FALSE,21,7.9
+"24","Werewolf",FALSE,21,8.2
+"25","Wax Phantom",FALSE,21,7.9
+"26","Giant Bat,Geronimo,Gunslinger,Robot Gunslinger,Cactus",FALSE,43,6.9
+"27","Hooded Man,Skeletons",FALSE,41,7.8
+"28","The Vulture",FALSE,41,7.9
+"29","Scarecrow",FALSE,43,7.9
+"30","Ghost of Captain Moody,Ghost of Captain Moody",FALSE,43,7.9
+"31","The Gargoyle,Phantoms,Phantoms",FALSE,41,7.7
+"32","Ghost,Sheik,Mummy,Pirate,Dragon,Wolfman,Grizzly Bear,Indian,Mr. Hyde",FALSE,41,7.8
+"33","Shark Men,Shark Men",FALSE,41,8.5
+"34","Skeleton Man,Lady Ghost,3-Eyed Spook,Giant,Brontosaurus,Headless Horsemen of Sleepy Hollow,Skeleton Stage Driver",FALSE,43,7.7
+"35","The Ghost of Bigfoot",FALSE,43,8.3
+"36","Ghost of the Red Baron",FALSE,43,7.6
+"37","Ghost of Redbeard,Ghost of Redbeard's crew,Ghost of Redbeard's crew,Ghost of Redbeard's crew",FALSE,43,7.4
+"38","Haunted Horseman,Moat Monster",FALSE,41,7.8
+"39","Possessed Viking Mannequin,Possessed Davy Crockett Mannequin",FALSE,41,7.6
+"40","Dryad,Troll",FALSE,43,7.2
+"41","Sea Serpent,Ghost of Paul Revere,Minuteman Ghost,Redcoat Ghost",FALSE,43,7.9
+"42","Hooded Ghosts,Hooded Ghosts,Hooded Ghosts",FALSE,44,7.4
+"43","Ghost of Injun Joe,Ghost of Captain Scavenger",FALSE,43,7.9
+"44","Jadal",TRUE,43,7.5
+"45","Spirit of Fireball McPhan",FALSE,43,7.4
+"46","Cat Creature,Frankenstein,Creepy Man,Ghost Bird,Unknown Exterminator,Ghostly Man,Invisible Couple,Sea Monster",FALSE,44,7.6
+"47","Windmakers,Windmakers,Windmakers,Windmakers",FALSE,44,7.3
+"48","Green Globs,Green Globs",FALSE,43,7.8
+"49","Ghostly Strongman",FALSE,43,7.6
+"50","Specter of Ebenezer Crabbe,Ghost of Netty Crabbe",FALSE,24,7.6
+"51","Mr. Hyde,Snitch",TRUE,22,7.2
+"52","Ghost of King Katazuma,Aztec Statue Monster",FALSE,24,7.4
+"53","Lowbrow,Lowbrow's Henchmen,Lowbrow's Henchmen",TRUE,22,6.9
+"54","Ghost of Gator Ghoul",FALSE,24,7.5
+"55","10000 Volt Ghost",FALSE,24,8
+"56","Headless Horseman",FALSE,24,8
+"57","Ghost of Merlin,Black Knight",FALSE,24,7.6
+"58","Ghost of Dr. Coffin",FALSE,24,8.2
+"59","No-Face Zombie,Gorilla",FALSE,24,7.7
+"60","Mamba Wamba,Zombie Lila,Mamba Zombie,",FALSE,24,7
+"61","Demon",FALSE,24,7.4
+"62","Swamp Rat",FALSE,22,6.3
+"63","Tamuka the Ghost Bull,Medicine Man Ghost,Talking Bull",FALSE,24,6.8
+"64","Demon Shark",FALSE,24,7.2
+"65","Ghost of Captain Pescado,Kelp Monster,Octopus Monster",FALSE,24,7.3
+"66","Rambling Ghost",FALSE,24,6.8
+"67","Strawberry Technicolor Phantom,Chocolate Technicolor Phantom,Vanilla Technicolor Phantom",FALSE,24,7.7
+"68","Ghost of Benedict Arnold,Ghost of William Demont,Ghost of Major Andre",FALSE,24,7.5
+"69","Viking Ghost,Viking Ghost,Viking Ghost",FALSE,24,7.4
+"70","NULL",NA,12,6.9
+"71","NULL",NA,12,6.9
+"72","Gramps the Vamp",FALSE,24,8.2
+"73","NULL",NA,12,6.3
+"74","NULL",NA,12,6.3
+"75","Pterodactyl Ghost",FALSE,24,7.4
+"76","NULL",NA,12,7.1
+"77","NULL",NA,12,7.1
+"78","Phantom of Milo Booth",FALSE,24,7.9
+"79","NULL",NA,12,7.2
+"80","Lochness Monster",TRUE,12,7.2
+"81","Phantom Racer",FALSE,24,7.4
+"82","NULL",NA,11,6.8
+"83","NULL",NA,11,6.8
+"84","Ghost of Witch McCoy,Zombie",FALSE,24,8.1
+"85","NULL",NA,12,6.8
+"86","NULL",NA,12,6.8
+"87","Futuristic Monster",FALSE,24,7.7
+"88","NULL",NA,12,6.6
+"89","NULL",NA,12,6.6
+"90","Creepy Heap from the Deep,Soulless Captain Clements",FALSE,24,7.4
+"91","NULL",NA,12,6.4
+"92","NULL",NA,12,6.4
+"93","NULL",NA,12,6
+"94","Abominable Snowman,Abominable Snowwoman",TRUE,12,6
+"95","NULL",NA,12,6.7
+"96","NULL",NA,12,6.7
+"97","NULL",NA,12,6.4
+"98","NULL",NA,12,6.4
+"99","NULL",NA,12,6.3
+"100","Leprechaun",TRUE,12,6.3
+"101","Prehistoric Dinosaur",TRUE,12,6.9
+"102","NULL",NA,12,6.9
+"103","NULL",NA,12,6.8
+"104","NULL",NA,12,6.8
+"105","NULL",NA,12,6.9
+"106","NULL",NA,12,6.9
+"107","NULL",NA,12,7
+"108","NULL",NA,12,7
+"109","Willawa,Owl Men,Owl Men",FALSE,22,7.5
+"110","NULL",NA,12,6.7
+"111","Ghost of Blue Beard",TRUE,12,6.7
+"112","Skeleton Men,Skeleton Men,Skeleton Men",FALSE,23,7.3
+"113","NULL",NA,12,6.9
+"114","NULL",NA,12,6.9
+"115","Snow Beast",FALSE,23,7.1
+"116","Annabelle",TRUE,12,6.6
+"117","Frankenstein's Monster,Vampires,Living Trees,Monster of the Black Lagoon",TRUE,12,6.6
+"118","Ghost Witch of Old Salem",FALSE,23,8
+"119","NULL",NA,12,6.6
+"120","NULL",NA,12,6.6
+"121","Tar Monster",FALSE,22,7.6
+"122","NULL",NA,12,6.5
+"123","Giant Squid",TRUE,12,6.5
+"124","Ghost of Finnyan McDuff,Loch Ness Monster",FALSE,23,7.7
+"125","NULL",NA,12,6.4
+"126","NULL",NA,12,6.4
+"127","Old Iron Face",FALSE,23,7.7
+"128","NULL",NA,12,6.2
+"129","NULL",NA,12,6.2
+"130","Jaguaro",FALSE,22,7.2
+"131","NULL",NA,12,6.8
+"132","NULL",NA,12,6.8
+"133","Cat Creature",FALSE,23,8
+"134","Mantis",FALSE,23,7.5
+"135","Phantom",FALSE,23,7.5
+"136","Moon Monster",FALSE,23,7.5
+"137","Ghostly Gondolier",FALSE,23,7.5
+"138","Ghost of Juan Carlos",FALSE,23,7.2
+"139","Anthos,Devil Hound",FALSE,23,6.8
+"140","Beast of Bottomless Lake",FALSE,23,7.1
+"141","Blue Scarab",FALSE,21,7.6
+"142","Night Ghoul",FALSE,21,7.6
+"143","Alien",FALSE,21,7.6
+"144","Neon Phantom",FALSE,21,7.4
+"145","Snake Demon,Clown",FALSE,21,7.5
+"146","Sky Skeleton",FALSE,21,7.4
+"147","Dragon Beast",FALSE,21,7.5
+"148","Devil Bear",FALSE,21,7.3
+"149","Sea Beast of the Aztecs",FALSE,21,7.6
+"150","Lady Vampire of the Bat",FALSE,21,8
+"151","Star Creature",FALSE,21,7.2
+"152","Shadow Creature",FALSE,21,7.7
+"153","NULL",NA,49,6.1
+"154","Ghost of Jeremiah Pratt",FALSE,21,7.5
+"155","Ghost of the Great Haldane",FALSE,21,7.3
+"156","Minotaur",FALSE,21,7.5
+"157","NULL",NA,21,6.5
+"158","Aliens,Aliens",TRUE,8,7.1
+"159","Sylvester",TRUE,8,7.1
+"160","Chinese Food Factory Burglar",FALSE,8,7.1
+"161","Arabian Magician",TRUE,8,7.2
+"162","Cat Man",TRUE,8,7.2
+"163","NULL",NA,8,6.8
+"164","Mummy",TRUE,8,7.2
+"165","NULL",NA,8,7.2
+"166","NULL",NA,8,7.2
+"167","NULL",NA,8,7.2
+"168","Caveman",TRUE,8,7.1
+"169","Pirate",TRUE,8,6.8
+"170","NULL",NA,8,6.8
+"171","NULL",NA,8,6.7
+"172","NULL",NA,8,7.1
+"173","NULL",NA,8,7.1
+"174","Swamp Witch",TRUE,8,6.7
+"175","Knight",TRUE,8,7
+"176","Wax Master",TRUE,8,6.7
+"177","Evil Trees,Caterpillar,Cheshire Cat,Queen of Hearts",FALSE,8,7
+"178","NULL",NA,8,7
+"179","Lava Monster",TRUE,8,7
+"180","NULL",NA,8,6.7
+"181","Alaskan Monster",TRUE,8,7
+"182","Rocky Maximus",TRUE,8,6.7
+"183","Swamp Monster",TRUE,8,6.7
+"184","NULL",NA,8,7
+"185","NULL",NA,8,7
+"186","NULL",NA,8,7
+"187","Shaggy",TRUE,8,7
+"188","NULL",NA,8,7.1
+"189","Rock Monsters,Rock Monsters",TRUE,8,7.1
+"190","Wicked Witch of the North by Southeast",FALSE,8,7.1
+"191","Phantom of the Sewers",TRUE,8,7.2
+"192","Rawhide Red",TRUE,8,7.1
+"193","Enemy Spy",TRUE,8,7.1
+"194","Alien",TRUE,8,7.2
+"195","NULL",NA,8,7.1
+"196","NULL",NA,8,7.2
+"197","Pleasure Island Man",FALSE,8,7.4
+"198","Pirate",TRUE,8,7.4
+"199","Sheet Ghost",TRUE,8,7.4
+"200","Centaur",TRUE,8,7.2
+"201","Merlin,Jasper",TRUE,8,7.2
+"202","Alien",TRUE,8,7.1
+"203","NULL",NA,8,7.1
+"204","Dragon",TRUE,8,7.1
+"205","Pat O'Wiley",TRUE,8,7.2
+"206","NULL",NA,8,7.1
+"207","Madame Olga",TRUE,8,7.1
+"208","Red Baron,T-Rex",FALSE,8,7.1
+"209","Toy Gorilla",TRUE,8,7.1
+"210","Plutonian",TRUE,8,7.1
+"211","Dr. Wolf",TRUE,8,7.4
+"212","Vampire Foreman",TRUE,8,7.1
+"213","Carnivorous Plants",TRUE,8,7.1
+"214","NULL",NA,8,7.1
+"215","NULL",NA,8,7.4
+"216","Bigfoot",TRUE,8,7.1
+"217","Giant",TRUE,8,7.1
+"218","NULL",NA,8,7.4
+"219","NULL",NA,8,7.4
+"220","Catfish Burglar",FALSE,8,7.1
+"221","Gargoyle,Medusa,Sea Creature,Octopus Monster,Bigfoot",TRUE,8,7.3
+"222","NULL",NA,8,6.9
+"223","NULL",NA,8,7.4
+"224","NULL",NA,8,7.3
+"225","NULL",NA,8,6.9
+"226","NULL",NA,8,7.3
+"227","NULL",NA,8,7.3
+"228","NULL",NA,8,7.4
+"229","NULL",NA,8,7.1
+"230","Slime Boy",FALSE,8,7.4
+"231","NULL",NA,8,7.3
+"232","NULL",NA,8,7.1
+"233","NULL",NA,8,7.3
+"234","NULL",NA,8,7
+"235","Jasmine",TRUE,8,7.1
+"236","Alien Scavenger Hunter,Alien Scavenger Hunter,Alien Scavenger Hunter",TRUE,8,7.2
+"237","Dognapper",FALSE,8,7.2
+"238","Cat Lady",FALSE,8,7
+"239","NULL",NA,8,7.1
+"240","Wonga",TRUE,8,7.1
+"241","Scooby-Doo",TRUE,8,7.4
+"242","NULL",NA,8,6.8
+"243","Abominable Snowman",FALSE,8,6.8
+"244","Olaf the Terrible",FALSE,11,7.4
+"245","Great White Shark,Seaweed Monster",FALSE,11,7.4
+"246","Face in the Fireplace,Ghosts Under the Bed,Living Animal Heads,Skeleton,Living Statue,Organ Playing Ghost",TRUE,11,7.5
+"247","Mud Monster",FALSE,11,7.5
+"248","Hound of the Barkervilles",FALSE,11,7.5
+"249","Dinosaur",FALSE,11,7.5
+"250","Creature from Chem Lab",FALSE,11,7.7
+"251","Masked Manx",FALSE,11,7.7
+"252","Randar the Ape Man,Mobotsu",FALSE,11,7.2
+"253","Maid Zombie,Barney Zombie,Tourist Zombie,Amy Zombie",FALSE,11,7.2
+"254","Neanderthal Monster of Devil's Rock",FALSE,11,7.5
+"255","NULL",NA,11,7.5
+"256","Tower Wizard,Yadzruck",TRUE,11,7.3
+"257","Phantom of the Soaps",FALSE,11,7.3
+"258","NULL",NA,11,7.1
+"259","Clown",FALSE,11,7.1
+"260","Minotaur",FALSE,11,7.4
+"261","Ghost of Casey O'Reilly",FALSE,11,7.4
+"262","Gremlin",FALSE,11,7.2
+"263","Specter of the Sports Cars",FALSE,11,7.2
+"264","Frankenstein's Monster,Dracula,Dracula's Wife,Dracula Jr.",TRUE,11,6.5
+"265","Ghost of Chef Maras",FALSE,11,6.5
+"266","Mummy",FALSE,23,6.5
+"267","Ghost of McBaggy Rodgers",FALSE,23,6.5
+"268","Red Skull",FALSE,23,7.2
+"269","Maid Mummy",FALSE,11,7.2
+"270","Helping Hands",FALSE,11,7.2
+"271","Sea Demon,Sea Demon",FALSE,11,7.5
+"272","Cyclops",FALSE,11,7.5
+"273","Master Mind",FALSE,11,7
+"274","Giant Bees",FALSE,11,7
+"275","Ghost of Ebenezer Overview",FALSE,11,7.1
+"276","NULL",NA,11,7.1
+"277","Zombies,Zombies,Zombies,Zombies",FALSE,23,6.9
+"278","Evil Elf",FALSE,11,7.2
+"279","Mad Sea Lion",FALSE,11,7.2
+"280","Ghost of Dr. Van Helsing",FALSE,23,8
+"281","Ghost of Abraham Lincoln,Ghost of George Washington,Ghost of Ulysses S. Grant,Ghost of Theodore Roosevelt",FALSE,23,7.5
+"282","Ghost of Colonel Beauregard",FALSE,11,7.3
+"283","NULL",NA,11,7.3
+"284","Ghost of Sherlock Holmes",FALSE,23,7.6
+"285","Monster Mutt",FALSE,11,7
+"286","Monster Mouse",FALSE,11,7
+"287","Ghost of Christmas Never",FALSE,23,7.9
+"288","Bogle,Weerd,Ghoulio,Werewolfs,Werewolf Daphnie",TRUE,24,7.7
+"289","Maldore the Malevolent,Evil Tree,Evil Tree,Dragon,Rat Gaurds,Rat Gaurds",TRUE,24,7.6
+"290","Shadow Demon,Griswald,Queen Morbidia",TRUE,24,7.3
+"291","Bogle,Weerd,Reflector Specter",TRUE,24,7.2
+"292","Zomba,Dr. Frankscoob's Monster",TRUE,24,7.9
+"293","Bogel,Weerd,Captain Ghost,Ghosts on the Ship,Tornado,Demon",TRUE,24,7.5
+"294","Bogel,Weerd,Nekara,Nekara's Minions",TRUE,24,7.6
+"295","Marcella,Helda Brewski,Ernestine Brewski,Wanda Brewski",TRUE,24,7.1
+"296","Time Slime,Bogel,Weerd",TRUE,24,7.4
+"297","Demondo,Bogel,Weerd",TRUE,24,7.7
+"298","Rankor,Bogel,Weerd,Head of S.A.P.S.,Living Plants",TRUE,24,7.4
+"299","Porff. Phantazmo,Bogel,Weerd",TRUE,24,7.4
+"300","Zimbulu,Bogel,Weerd,Boris Kreepoff,Zombies,Zombies,Zombies",TRUE,24,7.4
+"301","Headless Horseman,Beauregard's Ghost,Skull Ghost,Floating Skeleton",FALSE,92,7.1
+"302","Ghost",FALSE,23,7.3
+"303","Sludge Monster from the Earth's Croe",FALSE,23,7.5
+"304","Dr. Croaker",FALSE,23,8
+"305","Cheese Monster",FALSE,23,7.5
+"306","Ghost of Al Cabone",FALSE,23,7.4
+"307","Boogedy Bones",FALSE,23,7.6
+"308","Revolta,Grim Creeper,Mirror Monster,Well-Dweller",TRUE,92,6.9
+"309","Ice Demon",FALSE,23,7.8
+"310","Samurai Ghost",FALSE,23,7.7
+"311","Headless Skateboarder",FALSE,23,7
+"312","Boobeard",FALSE,23,7.5
+"313","Count Dracula,Wolfgong,Frankenstein,Repulsa,Witch Sisters,Witch Sisters,Mummy,Bonejangles,Swamp Thing,Vanna Pira,Werewolf Shaggy,Dr. Jackyll,Dragonfly,Webman,Schlockness Monster,Genghis Kong,Man-Eating Plant",TRUE,91,6.9
+"314","Totem Spirit",FALSE,23,6.9
+"315","Ghost of Chef Pierre Goulash",FALSE,23,7.2
+"316","Stinkweed",FALSE,23,7.5
+"317","Ghost of Buster McMutt Mauler",FALSE,23,7.7
+"318","Alien",FALSE,23,7.7
+"319","Ghost of Purvis Parker",FALSE,23,7.8
+"320","Chickenstein",FALSE,23,7.5
+"321","Burger Monster",FALSE,23,7.6
+"322","Dinkley 2000",FALSE,23,7.7
+"323","NULL",NA,23,7.2
+"324","Ghost of Zombo",FALSE,23,7.8
+"325","Boogey Biker",FALSE,11,7.1
+"326","Astronaut Ghost",FALSE,11,7.1
+"327","Bigwig",FALSE,23,6.9
+"328","Ghost of the Hooded Heifer",FALSE,23,7.2
+"329","Nasty-Doo",FALSE,23,7.2
+"330","NULL",NA,4,6.6
+"331","Ghost of Mrs. Shusham",FALSE,11,6.6
+"332","NULL",NA,8,6.6
+"333","Moving Mollusk",FALSE,23,7.2
+"334","NULL",NA,69,5.8
+"335","Ghostly Gardener",FALSE,22,8.4
+"336","Ghost of Morgan Moonscar,Pirate Zombies,Confederate Zombies,Tourist Zombies,Simone Lenoir,Lena Dupree,Jacques",TRUE,76,7.8
+"337","Ben Ravencroft,Sarah Ravencroft,Evil Trees,Pumpkin Monsters,Enormous Turkey",TRUE,66,7.3
+"338","Casper County Monster,Casper County Monster",FALSE,21,7.4
+"339","Aliens,Aliens,Aliens",FALSE,73,6.9
+"340","Phantom Virus",TRUE,73,7
+"341","Zombie,Mummy,Zombie Gary Coleman",FALSE,16,7.2
+"342","Demons,Demons,Demons,Demons,Possessed College Kids,Possessed Fred,Possessed Marry Jane,Possessed Daphine,Possessed Velma,Scrappy-Rex",TRUE,87,5.1
+"343","Green Monster",FALSE,12,8.1
+"344","Snow Creature",FALSE,21,7.5
+"345","Dinosaur Spirit",FALSE,21,7.4
+"346","The Alien",FALSE,21,7.6
+"347","Ghost of the Leland Brothers,Ghost of the Leland Brothers",FALSE,21,7.7
+"348","The Mystery Machine",FALSE,21,7.6
+"349","Ghost of Rufus Raucaus",FALSE,21,7.5
+"350","Roller Ghoster",FALSE,21,7.7
+"351","Jungle Demons",FALSE,21,7.1
+"352","Motoshondu",FALSE,21,7.1
+"353","Headless Snowman",FALSE,21,7.5
+"354","Spaceman Swintons,Annabel Action Figure,Other Toys",FALSE,21,7.7
+"355","Faceless Phantom",FALSE,21,7.5
+"356","Undead",FALSE,21,7.1
+"357","Yowie Yahoo,Dark Skull,Stormy Weathers,Lightning Strikes",FALSE,72,6.6
+"358","Baseball Specter",FALSE,21,7.3
+"359","Ancient One,30 Foot Shaggy",FALSE,21,7.2
+"360","Mummy of Pharaoh Scamses,Zombies,Zombies,Zombies,Zombies,Zombie Fred,Zombie Daphnie,Zombie Velma",FALSE,21,7.6
+"361","Gusano Grande",FALSE,21,7.4
+"362","Chupacabra,Paco,Quetzalcoatl,Jaguar Statues,Aztec Giant Statue,Ghost of Señor Otero,Skeleton Man",FALSE,72,6.5
+"363","Jeevens,Shari",TRUE,21,7.5
+"364","Baron Fortescu",FALSE,21,7.4
+"365","Scarecrows,Ghost of Hank Banning",FALSE,21,7.6
+"366","Cat Creature",FALSE,21,7.2
+"367","San Franpsycho",FALSE,21,7.3
+"368","Invisible Man",FALSE,21,7.5
+"369","Scooby Snack Monster,Scooby Snack Monster",FALSE,21,7.5
+"370","Glasburgh Dragon",FALSE,21,7.5
+"371","Fish Creature",FALSE,21,7.4
+"372","Wakumi,Shaman",FALSE,21,7.2
+"373","Masked Figure,Pterodactyl Ghost,Black Knight Ghost,Cotton Candy Glob,Tar Monster,Minder 49er,Captain Cutler's Ghost,Zombie,10000 Volt Ghost,Skeleton Men,Skeleton Men",TRUE,93,5.1
+"374","Centaur",FALSE,21,7.4
+"375","Loch Ness Monster,Loch Ness Monster",FALSE,74,6.7
+"376","Creepy Keeper,Skeleton Crew",FALSE,21,8
+"377","Sheriff,Cold Steel,Other Robot Cowboys",FALSE,21,7.2
+"378","Wiki-Tiki,Tiny Tikis",FALSE,73,6.4
+"379","Clone Fred,Clone Daphnie,Clone Velma,Clone Shaggy,Clone Scooby",FALSE,21,7.5
+"380","Titanic Twist",FALSE,21,7.4
+"381","Gargoyle",FALSE,21,7.5
+"382","Demon Farmer",FALSE,21,7.3
+"383","Frozen Fiend",FALSE,21,7
+"384","Menacing Metallic Clown",FALSE,21,7.6
+"385","Toxic Terror",FALSE,21,7.5
+"386","Dragon",FALSE,21,7.4
+"387","Skeleton Driver",FALSE,21,7.3
+"388","Gold Monster",FALSE,21,7.4
+"389","Coral Creature,Sand Monsters",TRUE,21,7.5
+"390","Ghost of Cleopatra,Army of the Undead,Spirit of the Sand",FALSE,74,6.7
+"391","Osomons",FALSE,21,7.4
+"392","Cptn. Skunk Beard,Wooden Wally,Sea Salt Sally,Cptn. Skunk Beard's Crew",FALSE,69,6.7
+"393","Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 5,Agent 6,Agent 7,Agent,8,Agent,9,Agent 10,Agent 11,Agent 12,Agent 13,Dr. Trebal",TRUE,23,6.1
+"394","Dr. Phineus Phibes,Agent 3,Agent 4,Agent 5,Agent 6,Agent 7,Agent,9,Agent 10,Agent 11,Agent 12,Agent 13,Dr. Trebal,Misty Swiss",TRUE,22,5
+"395","Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 8,Agent 11,Dr. Trebla",TRUE,23,6
+"396","Dr. Phineus Phibes,A.R.T.,Agent 2,Dr. Trebla",TRUE,23,5.9
+"397","Dr. Phineus Phibes,Dr. Trebla,Kevin,Mark,Ricky,Agent 1,Agent 2",TRUE,23,5.9
+"398","Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 7,Agent 10,Agent 11,Agent 12,Agent 13,Dr. Trebla",TRUE,22,5.5
+"399","Dr. Phineus Phibes,Bruce,Brucey,Agent 13,Mark,Ricky,Dr. Trebla",TRUE,23,5.8
+"400","Dr. Phineus Phibes,Agent 4,Agent 13",TRUE,23,6.9
+"401","Dr. Phineus Phibes,Dr. Trebla,Chef Suki Sukihari,Agent 2,Agent 5,Agent 8",TRUE,22,5.1
+"402","Dr. Phineus Phibes,Dr. Trebla,Agent 1,Agent 2,Mark,Ricky",TRUE,23,6.1
+"403","Dr. Phineus Phibes,Dr. Trebla,Dr. Speed,Agent 1,Agent 2,Agent 5,Agent 6,Agent 8,Agent 11,Agent 12,Agent 13",TRUE,22,6.1
+"404","Dr. Phineus Phibes,Dr. Trebla,Agent 1,Agent 2,Mark,Ricky,Agent,4,Agent 7,Agent 11",TRUE,23,5.9
+"405","Dr. Phineus Phibes,Menace,Mr. Invisible,Cat Lady,Agent 2",TRUE,22,5.1
+"406","Abominable Snowman",FALSE,73,6.7
+"407","Dr. Phineus Phibes,Dr. Trebla,Agent 1,Agent 2,Agent 5,Agent 6,Agent 7,Agent 9,Mark,Ricky",TRUE,23,5.3
+"408","Dr. Phineus Phibes,Agent 1,Agent 2,Agent 4,Mark,Ricky,Dr. Trebla,Menace",TRUE,23,5.2
+"409","Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 5,Agent 6,Agent 8,Agent 9,Dr Trebla",TRUE,22,5.9
+"410","Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 5,Agent 7,Agent 8,Agent 9,Agent 11,Agent 12,Agent 13,Dr Trebla",TRUE,23,5.5
+"411","Dr. Phineus Phibes,Clown Phibes,Evil Phibes,Peekaboo Phibes,Klepto Phibes,Kung Fu Phibes,Pirate Phibes,Pantsing Phibes,Mark,Ricky,Dr. Trebla",TRUE,23,5.4
+"412","Dr. Phineus Phibes,Agent 1,Agent 2,Dr. Trebla",TRUE,22,5.6
+"413","Dr. Phineus Phibes,Evil Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 13,Dr. Trebla",TRUE,23,5.5
+"414","Dr. Phineus Phibes,Agent 1,Agent 2,Mark,Ricky,Dr. Trebla,Rusty,Bacon,Mummy,Frankenstein,Dracula,Swamp Monster",TRUE,22,5.4
+"415","Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 7,Agent 8,Agent 9,Agent 11,Agent 13,Mark,Ricky,Dr. Trebla",TRUE,23,4.8
+"416","Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 8,Agent 9,Agent 11,Dr. Trebla",TRUE,23,4.6
+"417","Dr. Phineus Phibes,Agent 1,Agent 2,Agent 4,Mark,Ricky,Dr. Trebla,Menace,Super Bulls,Cocky",TRUE,23,6.2
+"418","Zoinks,Dr. Phineus Phibes,Agent 1,Agent 2,Mark,Ricky,Dr. Trebla,Groovy Don",TRUE,23,5.1
+"419","Dr. Phineus Phibes,Agent 1,Agent 2,Agent 4,Agent 5,Agent 13,Agent 21,Agent 44,Agent 89,Mark,Ricky,Dr. Trebla",TRUE,23,5.8
+"420","Amazing Krudsky,Glob,Glum,Headless Horseman,Goblin King,Goblins",TRUE,74,6.4
+"421","Black Samurai,Ninjas",FALSE,75,6.5
+"422","Specter,Ezekial Gallows,Prudence Prufrock",TRUE,82,5.3
+"423","Gryphon,Banshee",FALSE,76,7.1
+"424","Slime Mutant",FALSE,23,7.9
+"425","Creeping Creatures,Creeping Creatures,Creeping Creatures",FALSE,23,7.8
+"426","Ghost Truck",FALSE,23,7.7
+"427","Man-Crab",FALSE,22,7.7
+"428","Que Horrifico,Spookified Kids",FALSE,22,8
+"429","Ghost Girl",FALSE,23,8.5
+"430","Phantom",FALSE,23,8.2
+"431","Gnome",FALSE,23,7.8
+"432","Green Humungonaut,Red Humungonaut",FALSE,23,7.6
+"433","Woodsman,Fishman,Specter of Shadow Canyon",FALSE,72,7.3
+"434","Fright Hound",FALSE,23,8.2
+"435","Vampire",FALSE,22,8.1
+"436","Char Gar Gothakon",FALSE,22,8.4
+"437","Cicada Creature",FALSE,22,8
+"438","Wanda Grubwort,Lake Monsters",TRUE,81,4.9
+"439","Lord Infernicus",FALSE,22,8.2
+"440","Shadowy Orc",FALSE,22,7.7
+"441","Aphrodite",FALSE,21,8.2
+"442","Danny Darrow",TRUE,22,8.8
+"443","White Wizard",FALSE,22,8.2
+"444","Nightfright",FALSE,22,8.5
+"445","Fish Freaks,Fish Freaks,Fish Freaks,Fish Freaks",FALSE,23,8.1
+"446","Manticore",FALSE,22,8.2
+"447","Headless Horror",FALSE,22,8.1
+"448","Shadowy Figure",FALSE,22,8.6
+"449","Ghost of Dead Justice",FALSE,22,8.2
+"450","Obliteratrix",FALSE,23,8.8
+"451","Freak of Crystal Cove",FALSE,23,9.2
+"452","Phantosaurs,Velociraptor",FALSE,77,6.8
+"453","Lord Valdronya",FALSE,78,6.5
+"454","Fortius",FALSE,23,6.9
+"455","Crybaby Clown",FALSE,23,8.5
+"456","Baba Yaga House,Baba Yaga",FALSE,23,7.9
+"457","Crybaby Clown",FALSE,23,8.4
+"458","Dreamweaver",FALSE,23,8.2
+"459","Hodag of Horror",FALSE,23,8.4
+"460","Junk",FALSE,23,7.7
+"461","Graveyard Ghoul",FALSE,22,8.2
+"462","Dark Lilith",FALSE,23,8.3
+"463","Hebediah Grim",FALSE,23,8.3
+"464","Fiend",FALSE,23,9.1
+"465","Kriegstaffebot,Ghost of Abigail Gluck",TRUE,22,8.7
+"466","Scarebear",FALSE,23,8.2
+"467","Krampus",FALSE,22,8.9
+"468","Dragon",FALSE,22,7.6
+"469","Mummy of Friar Serra",FALSE,22,8.6
+"470","Werewolf,Werewolf,Werewolf,Werewolf",FALSE,80,6.9
+"471","Sinister Snowman",FALSE,23,7
+"472","Mr. Hyde",FALSE,76,6.8
+"473","Grey Alien,Reptiod,Nordic Alien",FALSE,22,8
+"474","Skull Cattles,Skull Cattle Queen",FALSE,22,8.3
+"475","Rude Boy and the Ska-Tastics,Rude Boy and the Ska-Tastics,Rude Boy and the Ska-Tastics,Rude Boy and the Ska-Tastics",FALSE,22,8
+"476","Gluton Demon",FALSE,23,7.8
+"477","Dandy Highwayman",FALSE,22,8.3
+"478","Evil Fred,Evil Daphnie",FALSE,22,8.9
+"479","Monstrous Freak",FALSE,23,8.9
+"480","Priestess",FALSE,22,8.4
+"481","Kriegstaffebot",FALSE,23,8.7
+"482","Evil Entity",TRUE,22,9
+"483","Evil Entity,Minions",TRUE,22,9.3
+"484","Ye Phantom Parrot,Ghost of Gnarlybeard",FALSE,45,5.1
+"485","Phantom",FALSE,78,7.1
+"486","Cornfield Clem",FALSE,23,7.3
+"487","Mecha Mutt",FALSE,23,6.5
+"488","Ghost Bear",FALSE,84,6.3
+"489","Eshu",FALSE,22,6.6
+"490","Ghost of the Baron,Frankencreep",FALSE,74,6.7
+"491","Alien",FALSE,80,6.5
+"492","Sea Monster",FALSE,22,7.1
+"493","Witch,KISS Monsters,Harpies,The Destroyer",TRUE,79,6.5
+"494","Ghost of Elias Kingston",FALSE,22,7.9
+"495","Spirit of the Zatari Warrior",FALSE,22,7.2
+"496","Sea Creature,Sea Creature",FALSE,22,7.4
+"497","Gargoyle",FALSE,22,7.3
+"498","Ghost of Chip Braverton",FALSE,22,7.3
+"499","Sobek",FALSE,22,7.6
+"500","Crystal Crawler",FALSE,22,7.5
+"501","Headless Count",FALSE,22,8.2
+"502","Ghost of the Prima Donna",FALSE,22,7.4
+"503","Yeti",FALSE,22,7.5
+"504","Butler 3000",FALSE,22,7.5
+"505","Alien",FALSE,22,7.4
+"506","Phantom",FALSE,22,7.5
+"507","Black Knight",FALSE,22,6.6
+"508","Pterodactyl",FALSE,22,7.4
+"509","Ghost of Stealin' Stan",FALSE,24,7.7
+"510","Gremlin",FALSE,22,7.8
+"511","Sorcerer",FALSE,22,7.9
+"512","Swamp Monster",FALSE,22,8.2
+"513","Snow Monster",FALSE,22,7.5
+"514","Headless Horseman,Mummy,Zombie",FALSE,74,5.9
+"515","Giant",FALSE,22,7.4
+"516","Scarecrow,Scarecrow",FALSE,22,7.4
+"517","Inferno",FALSE,81,6.2
+"518","Ghost of Dapper Jack Rogers",FALSE,80,6.8
+"519","Ghost of the Cliff Bride",FALSE,22,7.2
+"520","Spirit of El Bandito",FALSE,22,7.6
+"521","Madcap the Killer Clown",FALSE,22,7.2
+"522","Viking Ghosts,Viking Ghosts,Viking Ghosts",FALSE,22,7.3
+"523","Toxic Mutant",FALSE,22,7.7
+"524","Ghost Pirate,Ghost Pirate",FALSE,77,5.6
+"525","Dorsal Foot",FALSE,22,8.2
+"526","Werewolf",FALSE,22,7.5
+"527","Jester Monster",FALSE,22,7.4
+"528","Vampire",FALSE,22,7.6
+"529","Houndbeast",FALSE,22,7.1
+"530","Grim Reaper,Mummy,Tengu,Tarasque,Tzitzimitl,Manticore,Haniver,Hemogoblin",FALSE,22,7.5
+"531","Baba Yaga,Baba Yaga House",FALSE,22,7.4
+"532","Kaniaku",FALSE,22,7.5
+"533","Ghost of Amos Littlefield",FALSE,22,6.6
+"534","Ghost of Jacob Marley,Ghost of Christmas Past,Ghost of Christmas Present,Ghost of Christmas Future",FALSE,22,7.7
+"535","Space Kook",FALSE,22,8
+"536","Ghost of Mother",FALSE,22,7.9
+"537","Ghost of Archie Barnes",FALSE,22,7.4
+"538","Mutant Rabbit",FALSE,22,7.2
+"539","Arachne",FALSE,22,6.7
+"540","Crimson Cloak",FALSE,75,6.6
+"541","Plant Monster",FALSE,22,7.1
+"542","Minus",FALSE,22,7.2
+"543","The Mystery Machine",FALSE,22,7.4
+"544","Ice Man",FALSE,22,7.4
+"545","Ape Man",FALSE,22,7.3
+"546","Trash Monster",FALSE,22,6.9
+"547","Ghost Chef",FALSE,22,6.7
+"548","Demon of Salem",FALSE,22,6.9
+"549","Professor Huh?",FALSE,22,7.8
+"550","Professor Huh?",FALSE,22,7.9
+"551","Pizza O'Possum",FALSE,11,6.8
+"552","Half-Beard's Ghost",FALSE,11,6.8
+"553","Phantasm,Ghost Kid",TRUE,42,9.6
+"554","NULL",NA,75,4.2
+"555","Red Ghost",FALSE,77,7.3
+"556","Living Tree",TRUE,11,8.1
+"557","Asmodeus",FALSE,82,6.5
+"558","Swamp Monster",FALSE,22,7
+"559","Civil War Zombie Ghosts",FALSE,22,7.9
+"560","Fish Monster",FALSE,22,7.9
+"561","Screaming Skulls of London",FALSE,22,8.1
+"562","Zombies,Werecat Simone Lenoir,Werecat Lena Dupree,Werecat Jacques,Werecat",FALSE,80,5.7
+"563","Cat Mummy",FALSE,23,7.3
+"564","Minotaur",FALSE,22,8.1
+"565","Ghost of Madds Markson,Madds Markson Monster",FALSE,22,8.3
+"566","Technomancer",FALSE,22,6.5
+"567","Spectral Speedster",FALSE,23,7.5
+"568","Dinosaur,Dinosaur",FALSE,23,7.5
+"569","Sia Doppelganger",FALSE,22,7.4
+"570","Pazzo the Ghost Clown",FALSE,23,7.4
+"571","Man-Bat",FALSE,22,8.7
+"572","Control Freak",FALSE,12,6.4
+"573","Rotten Robots,Dick Dastardly,Muttley,Cerberus",FALSE,94,5.7
+"574","Nightmare Ghost",FALSE,23,8.1
+"575","Fox Monster",FALSE,23,8.8
+"576","Miner Forty-Niner,Ghost of Captain Cutler,Spooky Space Kook,Snow Ghost,Clown,Ghost of Redbeard,Back Knight,Witch,Witch Doctor,Phantom,Creeper,Giant Teddy Bear",FALSE,23,7.9
+"577","Ghost of the Doom Bringer",FALSE,22,8.1
+"578","Gator Man Monster",FALSE,22,7.8
+"579","Fire Monster of Mount Etna",FALSE,22,7.7
+"580","Crazy Carl",FALSE,22,8.2
+"581","Ghost of Madame Zobrinsky",FALSE,22,7.6
+"582","Wedding Witch of Wainsly Hall",FALSE,22,8.6
+"583","Chronobeast,Robo Dooby Doo",FALSE,22,7.9
+"584","Ghost of Ester Moonkiller",FALSE,22,8.4
+"585","Werewolf",FALSE,23,7.6
+"586","Tardigrade Monster",FALSE,22,8.2
+"587","Ghost of Tallis Taggert",FALSE,22,NA
+"588","Ghost of Jean Lebeau",FALSE,22,NA
+"589","Phineas Phrag Monster",FALSE,23,NA
+"590","Gnarled One",FALSE,22,NA
+"591","Gargoyle",FALSE,22,NA
+"592","Frankenfooder Monster",FALSE,22,NA
+"593","Elevator Operator Ghost",FALSE,22,NA
+"594","Snow Devil",FALSE,22,NA
+"595","Caveman",FALSE,22,NA
+"596","Robot",FALSE,22,NA
+"597","Ghost of Charles M. Thraber",FALSE,22,NA
+"598","Zombie Mascot",FALSE,22,NA
+"599","Hyde Monster,Mummy,Dinosaur,Giant Manta Ray",FALSE,22,NA
+"600","Alpha Jackal-Lantern,Jackal-Lanterns",FALSE,76,6.3
+"601","Morgan le Fay,Black Knight",FALSE,77,6.2
+"602","Mud Men,Mud Men,Mud Men",FALSE,22,NA
+"603","Max Kilobyte",FALSE,23,NA

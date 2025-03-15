@@ -84,7 +84,7 @@ for (x in c(1 : length(list[[2]]))) {
 
 
 #Dataframe display ------------------------------------------------------------------------------------------------
-
+#Declare the dataframe with the same columns as the list
 sample_dataframe <- data.frame(
   Monster_name = list[1],
   Real_monster = list[2],
